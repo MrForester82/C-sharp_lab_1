@@ -1,0 +1,6 @@
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_1\introduction_into_VS\bin\Debug\introduction_into_VS.exe.config
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_1\introduction_into_VS\bin\Debug\introduction_into_VS.exe
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_1\introduction_into_VS\bin\Debug\introduction_into_VS.pdb
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_1\introduction_into_VS\obj\Debug\introduction_into_VS.csprojResolveAssemblyReference.cache
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_1\introduction_into_VS\obj\Debug\introduction_into_VS.exe
+D:\DGTU\3 курс\2 СЕМЕСТР\С#\C-sharp_lab_1\introduction_into_VS\obj\Debug\introduction_into_VS.pdb
